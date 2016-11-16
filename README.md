@@ -1,4 +1,4 @@
-#GitHub einstaklingsverkefni
+#GitHub einstaklingsverkefni 2vers
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -26,3 +26,4 @@
 
 ####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
 
+tralalal
